@@ -1,0 +1,8 @@
+{
+    "routes": [
+        {
+            "route": "/page1.html",
+            "serve": "/page1.html"
+        }
+    ]
+}
